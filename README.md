@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bansi 
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently practising Deep Learning using Tensorflow and Keras. I have 3 years of experience in building Machine Learning Models on Bigdata platforms.
+- 🌱 I’m currently practising Deep Learning using Tensorflow and Keras. I have 4 years of experience in building Machine Learning Models on Bigdata platforms.
 - 💞️ I’m looking to collaborate on research papers in Deep Learning
 - 📫 Reach me at maddali.bansi@gmail.com
 
